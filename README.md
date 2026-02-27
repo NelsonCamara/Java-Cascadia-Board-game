@@ -1,10 +1,10 @@
-# 🎲 Cascadia - Jeu de Plateau en Java
+# Cascadia - Jeu de Plateau en Java
 
 Implémentation complète du jeu de société **Cascadia** (Spiel des Jahres 2022) en **Java 21**, proposant un mode console et un mode graphique. Projet réalisé dans le cadre d'un cursus universitaire en Informatique.
 
 ---
 
-## 📖 À propos du projet
+## À propos du projet
 
 Cascadia est un jeu de placement de tuiles hexagonales où les joueurs construisent des écosystèmes en combinant des habitats (Forêt, Montagne, Prairie, Marais, Rivière) et des animaux sauvages (Ours, Wapiti, Saumon, Buse, Renard). Chaque espèce a ses propres règles de scoring basées sur les configurations spatiales.
 
@@ -12,7 +12,7 @@ Ce projet reproduit fidèlement les mécaniques du jeu pour 2 joueurs, avec deux
 
 ---
 
-## 🏗️ Architecture & Conception
+## Architecture & Conception
 
 ### Pattern MVC (Model-View-Controller)
 
@@ -108,7 +108,7 @@ src/cascadia/
 
 ---
 
-## ▶️ Lancement
+## Lancement
 
 ### Prérequis
 - **Java 21** ou supérieur
@@ -143,7 +143,7 @@ java -cp out cascadia.main.Main
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 Le dossier `docs/` contient :
 - **dev.pdf** — Documentation technique développeur
@@ -152,7 +152,7 @@ Le dossier `docs/` contient :
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 | Technologie | Usage |
 |-------------|-------|
@@ -162,7 +162,7 @@ Le dossier `docs/` contient :
 
 ---
 
-## 👤 Auteur
+## Auteur
 
 **Nelson Camara** — Étudiant en Master Informatique
 
