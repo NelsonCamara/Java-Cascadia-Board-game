@@ -67,7 +67,7 @@ src/cascadia/
 
 ---
 
-## 🔧 Compétences techniques démontrées
+## Compétences techniques démontrées
 
 ### Programmation Orientée Objet avancée
 - **Records Java** (`Tile`, `Lot`, `FaunaToken`, `Position`) — Utilisation des records pour l'immutabilité et la concision
